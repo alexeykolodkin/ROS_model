@@ -168,7 +168,7 @@
 <celldesigner:backupView state="none"/>
 <celldesigner:usualView>
 <celldesigner:innerPosition x="0.0" y="0.0"/>
-<celldesigner:boxSize width="188.0" height="77.0"/>
+<celldesigner:boxSize width="188.0" height="77.01"/>
 <celldesigner:singleLine width="2.0"/>
 <celldesigner:paint color="ff00cccc" scheme="Color"/>
 </celldesigner:usualView>
